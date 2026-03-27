@@ -46,8 +46,8 @@ input {
 
 /* Efecto al escribir */
 input:focus {
-    border-color: #ff6ec7;
-    box-shadow: 0 0 5px #ff6ec7;
+    border-color: #43072c;
+    box-shadow: 0 0 5px #840453;
 }
 
 /* Botón */
